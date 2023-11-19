@@ -10,8 +10,6 @@ The raw data is in `hotel_bookings.csv`.
 
 ## Usage
 
-The Jupyter notebook `hotel_booking_predictor.ipynb` walks through the full machine learning pipeline:
-
 - Data import and exploration
 - Data cleaning 
 - Feature engineering
@@ -23,7 +21,6 @@ The main libraries used are Pandas, NumPy, Matplotlib, Scikit-Learn.
 To run the notebook:
 
 Hotel-Booking-Cancellation-Prediction-System.ipynb
-
 
 ## Results
 
